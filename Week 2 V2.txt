@@ -1,0 +1,4 @@
+Second week was figuring out the physics, score, and death for the game. 
+We tried to make it so when the object touches the player then the object reacts / despawns. 
+Next, we developed pick-ups in the game that used that methodology. These were the coins.
+They and the bullets that can kill the player were building upon that physics base.
