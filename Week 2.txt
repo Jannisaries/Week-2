@@ -1,0 +1,4 @@
+Second week was figuring out the physics for the game. 
+We tried to make it so when the object touches the player then the object reacts / despawns. 
+Next, we developed pick-ups in the game that used that methodology.
+The pick-ups essentially build on what we've done with the physics but we can add effects. + health or points and all that.
